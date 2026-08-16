@@ -1,98 +1,160 @@
+<!-- =========================================================
+     DEVENDRA KUMAR — GitHub Profile README
+     Premium / animated / recruiter-focused
+========================================================== -->
+
+<!-- ========================= HERO ========================= -->
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050816,45:24105C,100:0756C9&text=DEVENDRA%20KUMAR&fontColor=FFFFFF&fontSize=54&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20Machine%20Learning%20%7C%20NLP%20%7C%20Automation&descAlignY=61&descSize=16" alt="Devendra Kumar"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,38:170B3B,70:312E81,100:0369A1&text=DEVENDRA%20KUMAR&fontColor=FFFFFF&fontSize=56&fontAlignY=37&animation=fadeIn&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20ML%20%7C%20NLP%20%7C%20Automation&descAlignY=59&descSize=17"
+    alt="Devendra Kumar — AI Engineer Python Developer"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+AI-enabled+automation+and+backend+systems;NLP+%7C+LLMs+%7C+Embeddings+%7C+FastAPI;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Turning+repetitive+workflows+into+reliable+automation;Code.+Automate.+Innovate." alt="Typing animation"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=850&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI-powered+automation+and+backend+systems;NLP+%7C+LLMs+%7C+Embeddings+%7C+FastAPI;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Turning+repetitive+workflows+into+reliable+automation;Code.+Automate.+Innovate."
+    alt="Animated developer tagline"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/devendra2580">
-    <img src="https://img.shields.io/badge/GitHub-devendra2580-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-devendra2580-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
   </a>
-  <a href="mailto:darapureddydevendra13579@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  <a href="https://www.linkedin.com/in/devendra2580/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=devendra2580&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views"/>
+  <a href="https://portfolio-devendra.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/>
+  </a>
+  <a href="mailto:devendrakumar.darapureddy@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
 </p>
 
-👋 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devendra2580&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/repositories/devendra2580?style=for-the-badge&label=PUBLIC%20REPOSITORIES&color=2563EB" alt="Public repositories"/>
+  <img src="https://img.shields.io/github/stars/devendra2580?style=for-the-badge&label=STARS&color=0891B2" alt="GitHub stars"/>
+</p>
 
-I'm an AI Engineer / Python Developer with 1.5+ years of professional experience building AI-enabled automation, NLP solutions, and API-driven backend systems.
+<!-- ========================= INTRO ========================= -->
 
-My work combines Python, FastAPI, REST APIs, LLM integration, GPT-based architectures, prompt engineering, embeddings, machine learning, deep learning, OAuth workflows, API testing, PostgreSQL, and automation.
+👋 whoami
 
-I also work on computer vision and deep-learning projects, including marine-life object detection, bone deformity detection, and medical-image classification.
+<table>
+<tr>
+<td width="62%" valign="top">
 
-Build useful systems. Automate repetitive work. Keep improving.
+Hey, I'm Devendra.
+
+AI Engineer / Python Developer with 1.5+ years of professional experience building AI-enabled automation, NLP solutions, and API-driven backend systems.
+
+I work at the intersection of:
+
+AI / LLMs · NLP · Python · FastAPI · Automation · Computer Vision
+
+My goal is simple:
+
+Turn complex or repetitive workflows into intelligent, reliable software.
+
+</td>
+
+<td width="38%" valign="top">
+
+┌────────────────────────────┐
+│  DEVENDRA // SYSTEM        │
+├────────────────────────────┤
+│  Role     AI Engineer      │
+│  Stack    Python + AI      │
+│  Focus    Automation       │
+│  Backend  FastAPI          │
+│  NLP      Embeddings       │
+│  Vision   YOLO             │
+│  Status   Building 🚀      │
+└────────────────────────────┘
+
+</td>
+</tr>
+</table>
+
+<!-- ========================= EXPERTISE ========================= -->
 
 🧠 Core Expertise
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" align="center" valign="top">
 
-🤖 AI / NLP
+🤖 AI / LLM
 
-LLM Integration
-
-GPT-based Architectures
-
+LLMs
+GPT Architectures
 Prompt Engineering
-
 Embeddings
-
 NLP Pipelines
 
-Semantic Matching
-
 </td>
-<td width="33%" valign="top">
 
-⚙️ Backend / APIs
+<td width="25%" align="center" valign="top">
+
+⚡ Backend
 
 Python
-
 FastAPI
-
 REST APIs
-
 PostgreSQL
-
 API Testing
 
-OAuth Authentication
+</td>
+
+<td width="25%" align="center" valign="top">
+
+⚙️ Automation
+
+Selenium
+OAuth
+Token Management
+API Workflows
+Browser Automation
 
 </td>
-<td width="33%" valign="top">
 
-👁️ ML / Computer Vision
+<td width="25%" align="center" valign="top">
 
-Machine Learning
-
-Deep Learning
+👁️ ML / Vision
 
 YOLOv8 / YOLOv9
-
-CNN / VGG16
-
-Image Classification
-
+CNN
+VGG16
+Deep Learning
 Object Detection
 
 </td>
 </tr>
 </table>
 
-🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-6366F1?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-10B981?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+<!-- ========================= TECH ========================= -->
+
+🛠️ Technology Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,fastapi,pytorch,tensorflow,opencv,postgres,mysql,aws,git,github,postman,vscode&perline=9&theme=dark" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,fastapi,pytorch,tensorflow,opencv,postgres,mysql,aws,git,github,postman,vscode&perline=9&theme=dark" alt="Technologies"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=googletranslate&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Embeddings-111827?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
   <img src="https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
   <img src="https://img.shields.io/badge/YOLOv8%20%2F%20YOLOv9-111827?style=for-the-badge&logoColor=00FFFF"/>
@@ -100,70 +162,34 @@ Object Detection
   <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=E97627"/>
 </p>
 
+<!-- ========================= EXPERIENCE ========================= -->
+
 💼 Experience
 
-🐍 Associate Python Developer — Infologitech
+🐍 Associate Python Developer
 
-Nov 2024 – Present · Hyderabad, India
-
-Built a Resume Scoring System with Python and FastAPI for automated resume processing and candidate evaluation.
-
-Implemented NLP and embedding-based semantic matching across skills, experience, location, hourly rate, notice period, and visa status.
-
-Developed REST APIs for resume processing, scoring, and application integration.
-
-Built LinkedIn automation with OAuth authentication, automated posting, and image uploads.
-
-Built GitHub automation for repository creation and project uploads using secure token authentication.
-
-Tested and troubleshot APIs using Postman and worked on multi-vendor automation workflows.
-
-📊 Business Analyst Intern — Outlook Publishing India Pvt. Ltd.
-
-Apr 2024 – Jul 2024 · Remote
-
-Conducted market research and competitive analysis.
-
-Built dashboards using Power BI, Tableau, and Excel.
-
-Performed data cleaning, validation, formatting, and insight extraction.
-
-Documented workflows and supported data-driven business decisions.
-
-🚀 Featured Work
+Infologitech · Hyderabad · Nov 2024 – Present
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-🤖 Resume Intelligence & Scoring
+🤖 AI / NLP
 
-Python · FastAPI · NLP · Embeddings · PostgreSQL
+Resume Scoring System
 
-AI/NLP backend workflow for resume processing and candidate evaluation.
+NLP processing
 
-Focus
+Embedding-based matching
 
-Resume information extraction
+Candidate evaluation
 
-Semantic candidate matching
-
-Candidate scoring
-
-FastAPI APIs
-
-Vector-based similarity workflows
+FastAPI backend
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-⚙️ Business Workflow Automation
-
-Python · Selenium · REST APIs · OAuth
-
-Automation workflows connecting browser operations, authentication, APIs, and business processes.
-
-Focus
+⚙️ Automation
 
 LinkedIn automation
 
@@ -173,14 +199,105 @@ OAuth workflows
 
 Image uploads
 
-API integration
+Multi-vendor workflows
 
-API testing
+</td>
+<td width="33%" valign="top">
+
+🔌 APIs / Engineering
+
+REST APIs
+
+PostgreSQL
+
+API validation
+
+Postman testing
+
+Secure token workflows
 
 </td>
 </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%2B%20Automation-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+📊 Business Analyst Intern
+
+Outlook Publishing India Pvt. Ltd. · Remote · Apr 2024 – Jul 2024
+
+Market research and competitive analysis
+
+Power BI / Tableau dashboards
+
+Data cleaning and validation
+
+Insight extraction and workflow documentation
+
+<!-- ========================= FEATURED WORK ========================= -->
+
+🚀 Featured Work
+
+<p align="center">
+  <i>Real systems, practical automation, and measurable ML experiments.</i>
+</p>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+🧠 Resume Intelligence
+
+Python · FastAPI · NLP · Embeddings · PostgreSQL
+
+An AI/NLP backend workflow for resume processing and candidate evaluation.
+
+Resume
+  ↓
+Extraction
+  ↓
+NLP + Embeddings
+  ↓
+Semantic Matching
+  ↓
+Candidate Score
+
+Core: semantic matching · scoring · APIs · vector workflows
+
+</td>
+
+<td width="50%" valign="top">
+
+⚙️ Business Automation
+
+Python · Selenium · OAuth · REST APIs
+
+Automation workflows connecting browser actions, authentication, APIs, and business processes.
+
+Authentication
+      ↓
+Browser / API
+      ↓
+Automation
+      ↓
+Validation
+      ↓
+Business Result
+
+Core: LinkedIn · GitHub · OAuth · APIs · automation
+
+</td>
+
+</tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 🌊 Marine Life Detection
@@ -189,23 +306,24 @@ YOLOv8 · PyTorch · TensorFlow · Computer Vision
 
 Deep-learning system for marine-life detection in underwater environments.
 
-Reported results
+Metric
 
-76% mAP50
+Result
 
-1.3 ms/image inference
+mAP50
 
-Data augmentation
+76%
 
-Object detection
+Inference
 
-Precision / Recall / F1 evaluation
+1.3 ms/image
 
 <a href="https://github.com/devendra2580/Marine-Animal-Detection">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Marine Animal Detection"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Marine Animal Detection"/>
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 🦴 Bone Deformity Detection
@@ -214,102 +332,213 @@ YOLOv8 · YOLOv9 · CNN · VGG16 · EfficientNetB0
 
 Deep-learning experiments for automated bone fracture/deformity detection in X-ray images.
 
-Dataset
+YOLOv9 Metric
 
-4,083 images
+Result
 
-717 fractured
+Precision
 
-3,366 non-fractured
+0.84
 
-YOLOv9
+Recall
 
-Precision: 0.84
+0.68
 
-Recall: 0.68
+mAP50
 
-mAP50: 0.77
+0.77
+
+Inference
 
 ~2.0 ms/image
 
 </td>
+
 </tr>
 </table>
 
-📂 My Public Repositories
+<!-- ========================= REPOSITORIES ========================= -->
 
-Repository
+📂 Selected Repositories
 
-What it demonstrates
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 🌊 Marine-Animal-Detection
 
-YOLO / computer vision / deep learning
+Computer Vision · YOLO · Deep Learning
+
+Marine-life object detection project.
+
+<a href="https://github.com/devendra2580/Marine-Animal-Detection">
+<img src="https://img.shields.io/badge/VIEW%20CODE-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Marine Animal Detection"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 🕷️ Website_Extraction
 
-Python / API / Selenium scraping
+Python · Selenium · API
 
-💻 kumar-portfolio
+Extracts Hacker News stories using API and Selenium scraping.
 
-Personal portfolio development
+<a href="https://github.com/devendra2580/Website_Extraction">
+<img src="https://img.shields.io/badge/VIEW%20CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Website Extraction"/>
+</a>
 
-🍲 food-recepies
+</td>
 
-Additional development project
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+💻 Kumar Portfolio
+
+JavaScript · Web Development
+
+Personal developer portfolio project.
+
+<a href="https://github.com/devendra2580/kumar-portfolio">
+<img src="https://img.shields.io/badge/VIEW%20CODE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio Repository"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🍲 Food Recipes
+
+Web Development
+
+Recipe-focused development project.
+
+<a href="https://github.com/devendra2580/food-recepies">
+<img src="https://img.shields.io/badge/VIEW%20CODE-10B981?style=for-the-badge&logo=github&logoColor=white" alt="View Food Recipes"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/devendra2580?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
+  </a>
+</p>
+
+<!-- ========================= OTHER PROJECTS ========================= -->
 
 🧪 Other Technical Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 🚕 Cloud-Based Cab Hiring System
 
-AWS EC2 · AWS S3 · AWS IAM · PHP · HTML · CSS
+AWS EC2 · S3 · IAM · PHP · HTML · CSS
 
-Cloud-based cab-booking application with authentication, booking workflow, ride tracking, fare calculation, validation, EC2 deployment, S3 storage, and IAM access management.
+Cloud-based cab-booking application with authentication, booking workflow, ride tracking, fare calculation, validation, deployment, storage, and IAM access management.
+
+</td>
+
+<td width="50%" valign="top">
 
 👁️ Glaucoma Detection
 
 CNN · VGG16 · LSTM · Bi-LSTM · TensorFlow · PyTorch
 
-Deep-learning project using fundus images with preprocessing, classification experiments, model training, and sensitivity/specificity evaluation.
+Deep-learning classification project using fundus images with preprocessing, model training, and sensitivity/specificity evaluation.
+
+</td>
+</tr>
+</table>
+
+<!-- ========================= EDUCATION ========================= -->
 
 🎓 Education
 
-B.Tech — Computer Science & Engineering
-Amrita Vishwa Vidyapeetham · 2020 – 2024
-
-🏅 Certifications & Achievements
-
-📜 IEEE Certificate — Safe and Secure Communication Using SSL/TLS
-
-💻 Tech Triumph 1.0 Hackathon — CodeChef ASEB
-
-⭐ Performance recognition in 2025 during automation development at Infologitech
-
-🎯 Current Focus
-
 <p align="center">
-
-AI / LLM APPLICATIONS  →  PYTHON BACKEND  →  NLP & EMBEDDINGS
-
-<br/>
-
-AUTOMATION  →  MACHINE LEARNING  →  COMPUTER VISION
-
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Amrita%20Vishwa%20Vidyapeetham-2020%20%E2%80%93%202024-2563EB?style=for-the-badge"/>
 </p>
 
-🌐 Connect With Me
+<!-- ========================= ACHIEVEMENTS ========================= -->
+
+🏆 Certifications & Achievements
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+📜 IEEE
+
+Safe and Secure Communication Using SSL/TLS
+
+</td>
+<td width="33%" align="center">
+
+💻 Hackathon
+
+Tech Triumph 1.0
+CodeChef ASEB
+
+</td>
+<td width="33%" align="center">
+
+⭐ Recognition
+
+Performance recognition in 2025 during automation development at Infologitech
+
+</td>
+</tr>
+</table>
+
+<!-- ========================= FOCUS ========================= -->
+
+🎯 What I'm Building Toward
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=AI+%2B+Automation;Intelligent+Backend+Systems;NLP+%2B+Embeddings;LLM-powered+Applications;Practical+Machine+Learning;Production-minded+Python" alt="Current focus animation"/>
+</p>
+
+<p align="center">
+  <code>AI / LLMs</code>
+  <code>Python Backend</code>
+  <code>NLP</code>
+  <code>Automation</code>
+  <code>Machine Learning</code>
+  <code>Computer Vision</code>
+</p>
+
+<!-- ========================= CONNECT ========================= -->
+
+🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/devendra2580/">
+    <img src="https://img.shields.io/badge/LinkedIn-DEVENDRA2580-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio-devendra.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-OPEN%20WEBSITE-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:devendrakumar.darapureddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://github.com/devendra2580">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:darapureddydevendra13579@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <b>AI Engineer • Python Developer • Machine Learning • NLP • Automation</b>
+  <b>AI Engineer · Python Developer · Machine Learning · NLP · Automation</b>
 </p>
 
 <p align="center">
@@ -317,5 +546,5 @@ AUTOMATION  →  MACHINE LEARNING  →  COMPUTER VISION
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0756C9,50:24105C,100:050816&animation=fadeIn" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:0369A1,45:312E81,100:030712&animation=fadeIn" alt="Animated footer" width="100%"/>
 </p>
