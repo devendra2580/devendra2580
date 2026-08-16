@@ -20,21 +20,18 @@
   </a>
 </p>
 
----
-
-## ⚡ `whoami`
+⚡ whoami
 
 <table>
 <tr>
 <td width="56%" valign="top">
 
-### Hey, I'm Devendra 👋
+Hey, I'm Devendra 👋
 
-I'm a **Python Developer focused on AI/ML, backend engineering and automation**.
+I'm a Python Developer focused on AI/ML, backend engineering and automation.
 
-I enjoy building systems that connect **intelligence + APIs + automation** to solve practical business problems.
+I enjoy building systems that connect intelligence + APIs + automation to solve practical business problems.
 
-```python
 class DevendraKumar:
     role = "Python / AI-ML Engineer"
 
@@ -49,7 +46,6 @@ class DevendraKumar:
     mindset = "Build → Automate → Improve"
 
     currently = "Turning ideas into useful systems 🚀"
-```
 
 </td>
 <td width="44%" align="center">
@@ -60,9 +56,7 @@ class DevendraKumar:
 </tr>
 </table>
 
----
-
-## 🧠 What I Build
+🧠 What I Build
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20ML-111827?style=for-the-badge&logo=probot&logoColor=8B5CF6"/>
@@ -73,16 +67,16 @@ class DevendraKumar:
   <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
 </p>
 
----
+🛠️ Tech Arsenal
 
-## 🛠️ Tech Arsenal
+Languages
 
-### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css,sql&theme=dark" />
 </p>
 
-### AI / ML / Data
+AI / ML / Data
+
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
   <img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
@@ -92,12 +86,14 @@ class DevendraKumar:
   <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
 </p>
 
-### Backend / Cloud / DevOps
+Backend / Cloud / DevOps
+
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,aws,azure,gcp,git,github,postman&theme=dark" />
 </p>
 
-### Automation / Tools
+Automation / Tools
+
 <p>
   <img src="https://img.shields.io/badge/Selenium-111827?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
   <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=fastapi&logoColor=22D3EE"/>
@@ -105,25 +101,29 @@ class DevendraKumar:
   <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 </p>
 
----
-
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Resume Intelligence & Scoring
-**FastAPI · NLP · Embeddings · PostgreSQL · pgvector**
+🤖 Resume Intelligence & Scoring
+
+FastAPI · NLP · Embeddings · PostgreSQL · pgvector
 
 AI-assisted resume analysis and scoring pipeline using semantic embeddings and structured matching.
 
-**Highlights**
-- Resume parsing
-- Skill / experience matching
-- Semantic similarity
-- Vector search
-- API-first backend architecture
+Highlights
+
+Resume parsing
+
+Skill / experience matching
+
+Semantic similarity
+
+Vector search
+
+API-first backend architecture
 
 <a href="https://github.com/devendra2580?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW%20PROJECTS-8B5CF6?style=for-the-badge"/>
@@ -132,8 +132,9 @@ AI-assisted resume analysis and scoring pipeline using semantic embeddings and s
 </td>
 <td width="50%" valign="top">
 
-### 🌊 Marine Animal Detection
-**YOLO · Computer Vision · Deep Learning**
+🌊 Marine Animal Detection
+
+YOLO · Computer Vision · Deep Learning
 
 Computer-vision project for detecting marine animals from images using an object-detection pipeline.
 
@@ -147,8 +148,9 @@ Computer-vision project for detecting marine animals from images using an object
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 OCR PDF Highlighter
-**EasyOCR · Tesseract · OpenCV · PyMuPDF**
+🔎 OCR PDF Highlighter
+
+EasyOCR · Tesseract · OpenCV · PyMuPDF
 
 OCR pipeline designed to extract searchable content from image-based PDFs and highlight matching text.
 
@@ -159,8 +161,9 @@ OCR pipeline designed to extract searchable content from image-based PDFs and hi
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Workflow Automation
-**Python · Selenium · REST APIs · OAuth**
+⚙️ Workflow Automation
+
+Python · Selenium · REST APIs · OAuth
 
 Automation workflows connecting browser actions, APIs and business processes to reduce repetitive manual work.
 
@@ -172,9 +175,7 @@ Automation workflows connecting browser actions, APIs and business processes to 
 </tr>
 </table>
 
----
-
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devendra2580&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=00000000&title_color=8B5CF6&icon_color=22D3EE&text_color=C4B5FD" height="180"/>
@@ -185,27 +186,20 @@ Automation workflows connecting browser actions, APIs and business processes to 
   <img src="https://streak-stats.demolab.com?user=devendra2580&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=22D3EE&currStreakLabel=C4B5FD" width="70%"/>
 </p>
 
----
-
-## 🐍 Contribution Journey
+🐍 Contribution Journey
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="90%"/>
 </p>
 
----
-
-## 🏆 Achievements
+🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devendra2580&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="95%"/>
 </p>
 
----
+💼 Professional Focus
 
-## 💼 Professional Focus
-
-```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  PYTHON DEVELOPMENT     ████████████████████████  95%       │
@@ -216,11 +210,8 @@ Automation workflows connecting browser actions, APIs and business processes to 
 │  COMPUTER VISION        ██████████████████░░░░░░  80%       │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
-```
 
----
-
-## 🌐 Let's Connect
+🌐 Let's Connect
 
 <p align="center">
   <a href="https://github.com/devendra2580">
@@ -241,20 +232,4 @@ Automation workflows connecting browser actions, APIs and business processes to 
 
 <!--
   Built with a focus on clarity, motion and recruiter-friendly technical storytelling.
--->
-## Hi there 👋
-
-<!--
-**devendra2580/devendra2580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
